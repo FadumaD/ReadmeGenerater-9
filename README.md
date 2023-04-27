@@ -1,5 +1,4 @@
 # ReadmeGenerater-9
-# undefined
   ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)
   ##### Table of Contents  
   [Headers](#headers)  
@@ -13,7 +12,7 @@
   
       [License](#license)  
   ## Description
-  This applicatipn creates a readme file for you very quickly and professionally. You answer all the question and it provides you with a README.md file that you could attach to any project. It had all the key parts in it that make it a good read me for example the usage and contributors sometime those things are forgotten from a readme file.
+  This applicatipn creates a readme file for you very quickly and professionally. You answer all the question and it provides you with a README.md file that you could attach to any project. It had all the key parts in it that make it a good read me for example the usage and contributors sometime those things are forgotten from a readme file. Challenge will require the use of the Inquirer package, ensure that you install and use Inquirer version 8.2.4.
   
   ## Requirements
   undefined
