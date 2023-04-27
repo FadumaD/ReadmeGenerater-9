@@ -22,7 +22,7 @@
   You use this by answering the question in as much detail as you can to then have it transferred and made into a readme file.
   
   ## Contact
-  Name - undefined
+  Name - fadumo dahir 
   Email - Fadumadahir300@gmail.com
   Github - FadumaD
   
