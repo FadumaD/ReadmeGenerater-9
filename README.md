@@ -13,19 +13,25 @@
   
       [License](#license)  
   ## Description
-  This applicatipn creates a readme file for you very quickly and professionally 
+  This applicatipn creates a readme file for you very quickly and professionally. You answer all the question and it provides you with a README.md file that you could attach to any project. It had all the key parts in it that make it a good read me for example the usage and contributors sometime those things are forgotten from a readme file.
+  
   ## Requirements
   undefined
+  
   ## Usage
   You use this by answering the question in as much detail as you can to then have it transferred and made into a readme file.
+  
   ## Contact
   Name - undefined
   Email - Fadumadahir300@gmail.com
-  Github - undefined
+  Github - FadumaD
+  
   ## Contributors
   undefined
+  
   ## Testing
   undefined
+  
   ## License
   This is the Walkthrough Video 
   https://drive.google.com/file/d/1Mete_GF86JVzudUnM_diM4q5AS4DveQ3/view?usp=sharing
